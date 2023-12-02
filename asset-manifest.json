@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/sabrosura-bolsonera/static/css/main.24654a5d.css",
+    "main.js": "/sabrosura-bolsonera/static/js/main.862dca6b.js",
+    "static/media/background7.png": "/sabrosura-bolsonera/static/media/background7.25d9770ce7ebd905c36d.png",
+    "static/media/flores.png": "/sabrosura-bolsonera/static/media/flores.9b5c226915a224427a62.png",
+    "static/media/Carne4.jpg": "/sabrosura-bolsonera/static/media/Carne4.5a28f0a467fc148c008c.jpg",
+    "static/media/Carne.jpg": "/sabrosura-bolsonera/static/media/Carne.d244f837a833dff5dc05.jpg",
+    "static/media/Agrid.jpg": "/sabrosura-bolsonera/static/media/Agrid.1627985fd43e936c981d.jpg",
+    "static/media/Agrid4.jpg": "/sabrosura-bolsonera/static/media/Agrid4.72c06c25207c9ec359d6.jpg",
+    "static/media/adorno esquina.png": "/sabrosura-bolsonera/static/media/adorno esquina.0d8ba2dd16848321807f.png",
+    "static/media/Dulce4.jpg": "/sabrosura-bolsonera/static/media/Dulce4.e58b14c72f5c4fd36b3f.jpg",
+    "static/media/Carne2.jpg": "/sabrosura-bolsonera/static/media/Carne2.17ebdea0cb41011616a8.jpg",
+    "static/media/Dulce2.jpg": "/sabrosura-bolsonera/static/media/Dulce2.ac6c94a61f862a723ce9.jpg",
+    "static/media/Agrid3.jpg": "/sabrosura-bolsonera/static/media/Agrid3.666e6f2f3fd39b5fada6.jpg",
+    "static/media/Agrid5.jpg": "/sabrosura-bolsonera/static/media/Agrid5.f5dea654fff10993b723.jpg",
+    "static/media/Dulce3.jpg": "/sabrosura-bolsonera/static/media/Dulce3.9a630b15cdb7cdbf492a.jpg",
+    "static/media/Dulce5.jpg": "/sabrosura-bolsonera/static/media/Dulce5.ce02f445d1dabdfbfd7f.jpg",
+    "static/media/Carne5.jpg": "/sabrosura-bolsonera/static/media/Carne5.30697b9d0bf5a1420a7b.jpg",
+    "static/media/Dulce.jpg": "/sabrosura-bolsonera/static/media/Dulce.f55e4e9961e16ec35ef3.jpg",
+    "static/media/Agrid2.jpg": "/sabrosura-bolsonera/static/media/Agrid2.596810da96e54ec75dfa.jpg",
+    "static/media/Logo 2.png": "/sabrosura-bolsonera/static/media/Logo 2.6064a9babaa1c2afa9dd.png",
+    "static/media/Carne3.jpg": "/sabrosura-bolsonera/static/media/Carne3.8a98818921a3b8d545c5.jpg",
+    "static/media/QR.png": "/sabrosura-bolsonera/static/media/QR.06867ddcdec1f90d5133.png",
+    "static/media/whatsapp.png": "/sabrosura-bolsonera/static/media/whatsapp.e7c6b2dbf4797cd20e3b.png",
+    "index.html": "/sabrosura-bolsonera/index.html",
+    "main.24654a5d.css.map": "/sabrosura-bolsonera/static/css/main.24654a5d.css.map",
+    "main.862dca6b.js.map": "/sabrosura-bolsonera/static/js/main.862dca6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24654a5d.css",
+    "static/js/main.862dca6b.js"
+  ]
+}
