@@ -10,7 +10,7 @@ import SwiperCustom from "./Swiper";
 export default function Home() {
   return (
     <main>
-      <a href="https:wa.me/+5492944486539?text=Hola,%20necesito%20un%20presupuesto">
+      <a href="https://wa.me/+5492944486539?text=Hola,%20necesito%20un%20presupuesto">
         <img
           src={whatsapp}
           className={styles.whatsapp}
@@ -80,7 +80,7 @@ export default function Home() {
           <h2 className={styles.footerTitle}>Presupuestos Personalizados:</h2>
           <h2 className={styles.footerText}>
             Andrea Bre:{" "}
-            <a href="https:wa.me/+5492944486539?text=Hola,%20necesito%20un%20presupuesto">
+            <a href="https://wa.me/+5492944486539?text=Hola,%20necesito%20un%20presupuesto">
               +54 9 294 448-6539
             </a>
           </h2>
