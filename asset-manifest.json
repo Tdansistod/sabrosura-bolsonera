@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sabrosura-bolsonera/static/css/main.fd89b7db.css",
-    "main.js": "/sabrosura-bolsonera/static/js/main.e6a47197.js",
+    "main.css": "/sabrosura-bolsonera/static/css/main.4ce02baa.css",
+    "main.js": "/sabrosura-bolsonera/static/js/main.56d99419.js",
     "static/media/background7.png": "/sabrosura-bolsonera/static/media/background7.25d9770ce7ebd905c36d.png",
     "static/media/flores.png": "/sabrosura-bolsonera/static/media/flores.9b5c226915a224427a62.png",
     "static/media/Carne4.jpg": "/sabrosura-bolsonera/static/media/Carne4.5a28f0a467fc148c008c.jpg",
@@ -15,6 +15,7 @@
     "static/media/Agrid3.jpg": "/sabrosura-bolsonera/static/media/Agrid3.666e6f2f3fd39b5fada6.jpg",
     "static/media/Agrid5.jpg": "/sabrosura-bolsonera/static/media/Agrid5.f5dea654fff10993b723.jpg",
     "static/media/Dulce3.jpg": "/sabrosura-bolsonera/static/media/Dulce3.9a630b15cdb7cdbf492a.jpg",
+    "static/media/El Bolsón.jpg": "/sabrosura-bolsonera/static/media/El Bolsón.667754d03342f96222b4.jpg",
     "static/media/Dulce5.jpg": "/sabrosura-bolsonera/static/media/Dulce5.ce02f445d1dabdfbfd7f.jpg",
     "static/media/Carne5.jpg": "/sabrosura-bolsonera/static/media/Carne5.30697b9d0bf5a1420a7b.jpg",
     "static/media/Dulce.jpg": "/sabrosura-bolsonera/static/media/Dulce.f55e4e9961e16ec35ef3.jpg",
@@ -24,11 +25,11 @@
     "static/media/QR.png": "/sabrosura-bolsonera/static/media/QR.06867ddcdec1f90d5133.png",
     "static/media/whatsapp.png": "/sabrosura-bolsonera/static/media/whatsapp.e7c6b2dbf4797cd20e3b.png",
     "index.html": "/sabrosura-bolsonera/index.html",
-    "main.fd89b7db.css.map": "/sabrosura-bolsonera/static/css/main.fd89b7db.css.map",
-    "main.e6a47197.js.map": "/sabrosura-bolsonera/static/js/main.e6a47197.js.map"
+    "main.4ce02baa.css.map": "/sabrosura-bolsonera/static/css/main.4ce02baa.css.map",
+    "main.56d99419.js.map": "/sabrosura-bolsonera/static/js/main.56d99419.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd89b7db.css",
-    "static/js/main.e6a47197.js"
+    "static/css/main.4ce02baa.css",
+    "static/js/main.56d99419.js"
   ]
 }
