@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/sabrosura-bolsonera/static/css/main.4ce02baa.css",
-    "main.js": "/sabrosura-bolsonera/static/js/main.56d99419.js",
-    "static/media/background7.png": "/sabrosura-bolsonera/static/media/background7.25d9770ce7ebd905c36d.png",
+    "main.css": "/sabrosura-bolsonera/static/css/main.458e4143.css",
+    "main.js": "/sabrosura-bolsonera/static/js/main.a4a634f7.js",
+    "static/media/background.png": "/sabrosura-bolsonera/static/media/background.25d9770ce7ebd905c36d.png",
     "static/media/flores.png": "/sabrosura-bolsonera/static/media/flores.9b5c226915a224427a62.png",
     "static/media/Carne4.jpg": "/sabrosura-bolsonera/static/media/Carne4.5a28f0a467fc148c008c.jpg",
     "static/media/Carne.jpg": "/sabrosura-bolsonera/static/media/Carne.d244f837a833dff5dc05.jpg",
@@ -25,11 +25,11 @@
     "static/media/QR.png": "/sabrosura-bolsonera/static/media/QR.06867ddcdec1f90d5133.png",
     "static/media/whatsapp.png": "/sabrosura-bolsonera/static/media/whatsapp.e7c6b2dbf4797cd20e3b.png",
     "index.html": "/sabrosura-bolsonera/index.html",
-    "main.4ce02baa.css.map": "/sabrosura-bolsonera/static/css/main.4ce02baa.css.map",
-    "main.56d99419.js.map": "/sabrosura-bolsonera/static/js/main.56d99419.js.map"
+    "main.458e4143.css.map": "/sabrosura-bolsonera/static/css/main.458e4143.css.map",
+    "main.a4a634f7.js.map": "/sabrosura-bolsonera/static/js/main.a4a634f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ce02baa.css",
-    "static/js/main.56d99419.js"
+    "static/css/main.458e4143.css",
+    "static/js/main.a4a634f7.js"
   ]
 }
