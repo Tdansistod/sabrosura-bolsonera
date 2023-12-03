@@ -5,6 +5,7 @@ import decor from "./images/decoracion.png";
 import decorCorner from "./images/adorno esquina.png";
 import flower from "./images/flores.png";
 import QR from "./images/QR.png";
+import bolson from "./images/El Bolsón.jpg";
 import SwiperCustom from "./Swiper";
 
 export default function Home() {
@@ -64,11 +65,17 @@ export default function Home() {
         <SwiperCustom food="Dulces y Postres" />
         <h3 className={styles.foodTitle}>Carnes y Perniles</h3>
         <SwiperCustom food="Carnes y Perniles" />
-        <h3 className={styles.foodTitle}>Agridulces</h3>
-        <SwiperCustom food="Agridulces" />
+        <h3 className={styles.foodTitle}>Agridulces y Snacks</h3>
+        <SwiperCustom food="Agridulces y Snacks" />
         <h3 className={styles.mention}>
           Calidad | Trayectoria | Responsabilidad
         </h3>
+        <div className={styles.bolsonDiv}>
+          <h4 src={bolson} className={styles.bolsonText}>
+            Ubicados en El Bolsón
+          </h4>
+          <img src={bolson} className={styles.bolsonImg} />
+        </div>
       </div>
       <footer className={styles.footer}>
         <img

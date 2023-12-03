@@ -141,6 +141,65 @@
   height: auto;
   margin-left: 60px;
 }
+.bolsonDiv {
+  width: 60%;
+  max-width: 969px;
+  padding: 40px;
+  padding-bottom: 25px;
+  margin-bottom: 50px;
+  background-color: black;
+  border-radius: 40px;
+}
+.bolsonText {
+  margin: 0px;
+  margin-bottom: 40px;
+}
+.bolsonImg {
+  width: 100%;
+  border-radius: 40px;
+}
+@media only screen and (max-width: 1600px) {
+  .mainTitle {
+    font-size: 40px;
+    text-shadow: 1px 1px 20px #000, -1px 1px 20px #000;
+    line-height: 100px;
+  }
+  .decorCorner,
+  .decorCorner2 {
+    width: 60px;
+    margin-left: 10px;
+    margin-bottom: -60px;
+  }
+  .decorCorner2 {
+    margin-right: 50px;
+    margin-top: -60px;
+    margin-bottom: 50px;
+  }
+  .footer {
+    flex-direction: column;
+    justify-content: center;
+    height: fit-content;
+  }
+  .column {
+    margin-left: 0px;
+  }
+  .footerTitle {
+    font-size: 40px;
+    margin: 20px 0px;
+  }
+  .footerText {
+    font-size: 40px;
+  }
+  .qr {
+    display: none;
+  }
+  .flowerFooter {
+    justify-self: center;
+    align-self: center;
+    width: 300px;
+    margin: 0px;
+  }
+}
 @media only screen and (max-width: 700px) {
   .whatsapp {
     bottom: 0px;
