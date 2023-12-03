@@ -159,6 +159,11 @@
   border-radius: 40px;
 }
 @media only screen and (max-width: 1600px) {
+  .background {
+    width: auto;
+    height: 100lvh;
+    left: -200px;
+  }
   .mainTitle {
     font-size: 40px;
     text-shadow: 1px 1px 20px #000, -1px 1px 20px #000;
@@ -281,6 +286,13 @@
     align-self: center;
     width: 200px;
     margin: 0px;
+  }
+  .bolsonDiv {
+    width: 90%;
+    padding: 15px;
+  }
+  .bolsonText {
+    font-size: 20px;
   }
 }
 @media only screen and (max-width: 450px) {

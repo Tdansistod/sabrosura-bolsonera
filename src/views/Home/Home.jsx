@@ -1,5 +1,5 @@
 import styles from "./home.module.css";
-import background from "./images/background7.png";
+import background from "./images/background.png";
 import whatsapp from "./images/whatsapp.png";
 import decor from "./images/decoracion.png";
 import decorCorner from "./images/adorno esquina.png";
