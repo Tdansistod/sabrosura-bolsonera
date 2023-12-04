@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/sabrosura-bolsonera/static/css/main.458e4143.css",
-    "main.js": "/sabrosura-bolsonera/static/js/main.a4a634f7.js",
-    "static/media/background.png": "/sabrosura-bolsonera/static/media/background.25d9770ce7ebd905c36d.png",
+    "main.css": "/sabrosura-bolsonera/static/css/main.ec3bdd05.css",
+    "main.js": "/sabrosura-bolsonera/static/js/main.e799843e.js",
     "static/media/flores.png": "/sabrosura-bolsonera/static/media/flores.9b5c226915a224427a62.png",
     "static/media/Carne4.jpg": "/sabrosura-bolsonera/static/media/Carne4.5a28f0a467fc148c008c.jpg",
     "static/media/Carne.jpg": "/sabrosura-bolsonera/static/media/Carne.d244f837a833dff5dc05.jpg",
     "static/media/Agrid.jpg": "/sabrosura-bolsonera/static/media/Agrid.1627985fd43e936c981d.jpg",
+    "static/media/background2.jpg": "/sabrosura-bolsonera/static/media/background2.4c21e54c719011d69dbc.jpg",
     "static/media/Agrid4.jpg": "/sabrosura-bolsonera/static/media/Agrid4.72c06c25207c9ec359d6.jpg",
     "static/media/adorno esquina.png": "/sabrosura-bolsonera/static/media/adorno esquina.0d8ba2dd16848321807f.png",
     "static/media/Dulce4.jpg": "/sabrosura-bolsonera/static/media/Dulce4.e58b14c72f5c4fd36b3f.jpg",
@@ -25,11 +25,11 @@
     "static/media/QR.png": "/sabrosura-bolsonera/static/media/QR.06867ddcdec1f90d5133.png",
     "static/media/whatsapp.png": "/sabrosura-bolsonera/static/media/whatsapp.e7c6b2dbf4797cd20e3b.png",
     "index.html": "/sabrosura-bolsonera/index.html",
-    "main.458e4143.css.map": "/sabrosura-bolsonera/static/css/main.458e4143.css.map",
-    "main.a4a634f7.js.map": "/sabrosura-bolsonera/static/js/main.a4a634f7.js.map"
+    "main.ec3bdd05.css.map": "/sabrosura-bolsonera/static/css/main.ec3bdd05.css.map",
+    "main.e799843e.js.map": "/sabrosura-bolsonera/static/js/main.e799843e.js.map"
   },
   "entrypoints": [
-    "static/css/main.458e4143.css",
-    "static/js/main.a4a634f7.js"
+    "static/css/main.ec3bdd05.css",
+    "static/js/main.e799843e.js"
   ]
 }
