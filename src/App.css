@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  /* Fix for Firefox Mobile */
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  /* Fix for Firefox Mobile */
 }
 
 .App-logo {

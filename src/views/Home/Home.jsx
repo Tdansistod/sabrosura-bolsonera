@@ -1,5 +1,4 @@
 import styles from "./home.module.css";
-import background from "./images/background.png";
 import whatsapp from "./images/whatsapp.png";
 import decor from "./images/decoracion.png";
 import decorCorner from "./images/adorno esquina.png";
@@ -10,19 +9,17 @@ import SwiperCustom from "./Swiper";
 
 export default function Home() {
   return (
-    <main>
-      <a href="https://wa.me/+5492944486539?text=Hola,%20necesito%20un%20presupuesto">
+    <main className={styles.main}>
+      <a
+        href="https://wa.me/+5492944486539?text=Hola,%20necesito%20un%20presupuesto"
+        className={styles.whatsappAnchor}
+      >
         <img
           src={whatsapp}
           className={styles.whatsapp}
-          alt="Sabrosuras Bolsoneras, Whatsapp"
+          alt="Sabrosura Bolsonera, WhatsApp"
         />
       </a>
-      <img
-        src={background}
-        className={styles.background}
-        alt="Sabrosuras Bolsoneras"
-      />
       <div className={`${styles.mainContainer} ${styles.container}`}>
         <h1 className={styles.mainTitle}>
           Servicio de Lunch

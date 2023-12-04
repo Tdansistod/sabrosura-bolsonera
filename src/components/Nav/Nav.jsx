@@ -3,10 +3,8 @@ import styles from "./nav.module.css";
 
 export default function Nav() {
   return (
-    <header>
-      <nav className={styles.nav}>
-        <img src={img} alt="logo" className={styles.logo} />
-      </nav>
+    <header className={styles.header}>
+      <img src={img} alt="logo" className={styles.logo} />
     </header>
   );
 }
